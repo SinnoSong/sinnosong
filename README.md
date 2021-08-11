@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sinnosong
+- 👋 Hi, I’m @SinnoSong
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning Asp.Net Core
 
