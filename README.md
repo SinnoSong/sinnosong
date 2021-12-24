@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SinnoSong
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning Asp.Net Core
+- 👋 Hi, I’m @SinnoSong,I’m interested in C#.
+
+![Sinno's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinnosong&show_icons=true&theme=default)
 
 
 <!---
